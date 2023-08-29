@@ -1,16 +1,31 @@
-### Hi there 👋
+### Olá! Eu sou o Mateus Virgílio 😀
 
-<!--
-**mateus-virgilio22/mateus-virgilio22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-virg%C3%ADlio-103590219/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/mateusvirgilio/)
+
+## Habilidades
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+
+![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
+
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateus-virgilio22&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateus-virgilio22&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+.
+- 🌱 Estudando React
+
